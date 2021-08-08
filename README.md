@@ -1,6 +1,3 @@
-<!-- <img src="https://tenor.com/bm8F1.gif"> -->
-![](name-of-giphy.gif)
-
 <h2> Hey there! I'm Sahil.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
